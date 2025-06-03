@@ -6,7 +6,7 @@ const products = [
     { id: 5, name: "Macbook Pro M4", price: 349000, image: "images/laptop.jpg" },
      { id: 6, name: "bouquet", price: 1250, image: "images/bou1.webp" },
       { id: 7, name: "bouquet", price: 1500, image: "images/bou2.jfif" },
-       { id: 5, name: "Macbook Pro M4", price: 349000, image: "images/hair.jfif" },
+       
 ];
 
 let cart = JSON.parse(localStorage.getItem("cart")) || [];
