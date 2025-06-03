@@ -1,7 +1,7 @@
 const products = [
     { id: 1, name: "Wireless Headphone", price: 2000, image: "images/headphone.jpg" },
     { id: 2, name: "iPhone 16 Pro Max", price: 250000, image: "images/phone.jpg" },
-    { id: 3, name: "iWatch", price: 89000, image: "images/iWatch.jpg" },
+    { id: 3, name: "iWatch", price: 89000, image: "images/iWatch.jfif" },
     { id: 4, name: "Speaker", price: 2000, image: "images/speaker.jpg" },
     { id: 5, name: "Macbook Pro M4", price: 349000, image: "images/laptop.jpg" },
      { id: 6, name: "bouquet", price: 1250, image: "images/bou1.webp" },
